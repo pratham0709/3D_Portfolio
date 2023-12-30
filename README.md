@@ -48,7 +48,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Your Name - [@twitter_handle](https://twitter.com/Pratham_jadhav_) - prathameshj792@gmail.com
 
-Project Link: [https://github.com/pratham0709/NETFLIX-Clone.git](https://github.com/pratham0709/Netflix-Clone)
+Project Link: [https://github.com/pratham0709/Portfolio.git](https://github.com/pratham0709/3D_Portfolio)
 
 <hr />
 <br />
