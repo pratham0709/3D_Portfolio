@@ -18,7 +18,7 @@ const renderContent = {
         neo-brutalism-blue py-4 px-8 text-white mx-5">
         Hi, I am<span className="font-semibold mx-2 text-white">Prathamesh👋</span>
         <br />
-        A Frontend Developer From India
+        A Frontend Developer from India
         </h1>
     ),
     2 : (
