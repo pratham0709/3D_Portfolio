@@ -29,3 +29,28 @@ npm start
 
 
  ![Screenshot (90)](https://github.com/pratham0709/Portfolio/blob/main/src/assets/images/Screenshot.png)
+
+## <a href="https://portfolio-pratham0709.vercel.app/" target="_blank">LIVE DEMO 💥</a>
+
+<!-- Deployment -->
+
+### :triangular_flag_on_post: Deployment
+
+To deploy this project run
+
+##### Deploy on Vercel
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+## :handshake: Contact
+
+Your Name - [@twitter_handle](https://twitter.com/Pratham_jadhav_) - prathameshj792@gmail.com
+
+Project Link: [https://github.com/pratham0709/NETFLIX-Clone.git](https://github.com/pratham0709/Netflix-Clone)
+
+<hr />
+<br />
+
+<div align="center">Don't forget to leave a star ⭐️</div>
