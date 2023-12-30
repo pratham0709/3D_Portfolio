@@ -23,4 +23,4 @@ npm install
 npm start
 
 
- ![Screenshot (90)](https://github.com/ritika789/3d-portfolio/assets/83690198/2ed08294-3f12-4183-b435-1df633824a05)
+ ![Screenshot (90)](https://github.com/pratham0709/Portfolio/blob/main/src/assets/images/Screenshot.png)
