@@ -25,7 +25,7 @@ npm install
 
 ## Run the Development Server:
 
-npm start
+npm run dev
 
 
  ![Screenshot (90)](https://github.com/pratham0709/Portfolio/blob/main/src/assets/images/Screenshot.png)
