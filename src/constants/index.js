@@ -251,9 +251,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Razorpay Clone',
-        description: 'Created a full-stack replica of the popular online payments platform "Razorpay," specializing in online payment solutions for businesses.',
-        link: 'https://github.com/pratham0709/Razorpay-Clone',
+        name: 'Snapgram - Social Media App',
+        description: 'SnapGram is a unique social media platform that revolves around visual storytelling. With a focus on captivating images and community engagement, it offers a fresh perspective on connecting through visuals, setting it apart from traditional social media apps. Explore a world where every post tells a story!',
+        link: 'https://github.com/pratham0709/Snapgram',
     },
     {
         iconUrl: github,
@@ -273,14 +273,14 @@ export const projects = [
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'Weather Application',
-        description: 'Developed a web application for Weather, a user-friendly and reliable tool designed to provide real-time weather information.',
+        description: 'Created a full-stack replica of the popular online payments platform "Razorpay," specializing in online payment solutions for businesses.',
         link: 'https://github.com/pratham0709/Weather-App',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-blue',
-        name: 'Full Stack Discord Clone',
+        name: 'Full Stack Razorpay Clone',
         description: 'Built a complete clone of Discord, a popular communication platform designed for communities and gamers.',
-        link: 'https://github.com/pratham0709/Discord_Clone',
+        link: 'https://github.com/pratham0709/Razorpay-Clone',
     }
 ];
