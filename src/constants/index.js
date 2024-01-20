@@ -249,7 +249,7 @@ export const projects = [
         link: 'https://github.com/pratham0709/Crypto-Tracker',
     },
     {
-        iconUrl: threads,
+        iconUrl: snapgram,
         theme: 'btn-back-green',
         name: 'Snapgram - Social Media App',
         description: 'SnapGram is a unique social media platform that revolves around visual storytelling. Explore a world where every post tells a story!',
@@ -263,7 +263,7 @@ export const projects = [
         link: 'https://github.com/pratham0709/DevDetective',
     },
     {
-        iconUrl: snapgram,
+        iconUrl: threads,
         theme: 'btn-back-pink',
         name: 'Full Stack Netflix Clone',
         description: 'Built a complete clone of Netflix, a popular streaming service offering a vast library of movies, TV shows, and original content.',
