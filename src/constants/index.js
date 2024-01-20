@@ -250,7 +250,7 @@ export const projects = [
     },
     {
         iconUrl: snapgram,
-        theme: 'btn-back-pimk',
+        theme: 'btn-back-pink',
         name: 'Snapgram',
         description: 'SnapGram is a unique social media platform that revolves around visual storytelling. Explore a world where every post tells a story!',
         link: 'https://github.com/pratham0709/Snapgram',
