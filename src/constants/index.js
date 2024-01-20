@@ -252,7 +252,7 @@ export const projects = [
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Snapgram - Social Media App',
-        description: 'SnapGram is a unique social media platform that revolves around visual storytelling. With a focus on captivating images and community engagement, it offers a fresh perspective on connecting through visuals, setting it apart from traditional social media apps. Explore a world where every post tells a story!',
+        description: 'SnapGram is a unique social media platform that revolves around visual storytelling. Explore a world where every post tells a story!',
         link: 'https://github.com/pratham0709/Snapgram',
     },
     {
