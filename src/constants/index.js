@@ -199,7 +199,7 @@ export const experiences = [
         // icon: mcoerc,
         iconBg: "#b7e4c7",
         date: "Jul 2020 - Present",
-        grade: "9.14 CGPA (Overall)",
+        grade: "9.22 CGPA (Overall)",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
