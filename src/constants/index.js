@@ -219,7 +219,7 @@ export const experiences = [
     //         "Implementing responsive design and ensuring cross-browser compatibility.",
     //         "Participating in code reviews and providing constructive feedback to other developers.",
     //     ],
-    // },
+    // }, 
 ];
 
 export const socialLinks = [
